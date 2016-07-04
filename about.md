@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Qui sommes-nous ?
+comments: false
 ---
 
 <p class="message">
