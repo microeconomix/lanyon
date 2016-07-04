@@ -43,6 +43,7 @@
 
 html,
 body {
+  class: "theme-base-0c";
   margin: 0;
   padding: 0;
 }
