@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Qui sommes-nous ?
-disqus: false
+comments: false
 ---
 
 <p class="message">
