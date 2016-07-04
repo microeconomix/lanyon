@@ -2,6 +2,7 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink: pretty
+disqus: datamixblog
 markdown: kramdown
 highlighter: rouge
 kramdown:
@@ -25,17 +26,7 @@ author:
 version:             1.0.0
 
 footer-links:
-  dribbble: 
   email: ignacio.inoa@microeconomix.com
-  facebook: 
-  flickr: 
   github: microeconomixblog
-  instagram: 
-  linkedin: 
-  pinterest: 
-  rss: Y # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: microeconomix
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
-# Your disqus shortname, entering this will enable commenting on posts
-disqus: datamixblog
