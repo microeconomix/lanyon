@@ -38,6 +38,7 @@
 html,
 body {
   overflow-x: hidden;
+  class:"theme-base-0c";
 }
 
 html {
