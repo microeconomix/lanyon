@@ -25,7 +25,7 @@
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
+    {% include disqus.html %}
     <script>
       (function(document) {
         var toggle = document.querySelector('.sidebar-toggle');
@@ -43,9 +43,7 @@
         }, false);
       })(document);
     </script>
-    {% include disqus.html %}
-  </body>
-  
 
+  </body>
   
 </html>
