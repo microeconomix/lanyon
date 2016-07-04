@@ -8,18 +8,18 @@ kramdown:
   input: GFM
 
 # Setup
-title:               MiX Blog
-tagline:             'Le blog de Microeconomix'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               DataMiX Blog
+tagline:             "Le blog de l'équipe Data de Microeconomix"
+description:         "Ceci est le blog des économistes, économètres et data scientists de <a href="http://microeconomix.fr" target="_blank">Microeconomix</a>"
 url:                 http://microeconomixblog.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Ignacio Inoa
+  url:               https://twitter.com/InoaIgnacio
+  email:             ignacio.inoa@microeconomix.com
 
 # Custom vars
 version:             1.0.0
