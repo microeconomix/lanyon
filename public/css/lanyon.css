@@ -37,8 +37,9 @@
 /* Prevent scroll on narrow devices */
 html,
 body {
+  color: "theme-base-08";
   overflow-x: hidden;
-  class:"theme-base-0c";
+  
 }
 
 html {
