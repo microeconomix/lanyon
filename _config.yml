@@ -5,6 +5,7 @@ permalink: pretty
 disqus: datamixblog
 markdown: kramdown
 highlighter: rouge
+rss: true
 kramdown:
   input: GFM
 
