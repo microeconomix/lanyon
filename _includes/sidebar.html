@@ -3,12 +3,11 @@
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
 <!-- Toggleable sidebar -->
-<div class="sidebar" id="sidebar" style="text-align:center">
+<div class="sidebar" id="sidebar" >
   
-  <div class="sidebar-logo" style="text-align:center">
-    <img src="http://www.gravatar.com/avatar/{{site.author.email_md5}}?s=120" />
+ <div class="sidebar-logo" style="align:center">
+      <img src="http://www.gravatar.com/avatar/{{ site.author.email_md5 }}?s=120" />
   </div>
-
 <div id="contact-list" style="text-align:center">
     {% if site.author.github %}
       <a href="https://github.com/{{ site.author.github }}">
