@@ -4,7 +4,7 @@ title: Archives
 ---
 
 {% for post in site.posts %}
- {% assign m = page.date | date: "%-m" %}
+{% assign m = page.date | date: "%-m" %}
 {{ page.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}janvier
