@@ -567,11 +567,11 @@ a.pagination-item:hover {
 /* Custom */
 .theme-custom .sidebar {
 
-  background: #2BC0E4 /* fallback for old browsers */
-  background: -webkit-linear-gradient(120deg, #2BC0E4 , #EAECC6); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(120deg, #2BC0E4 , #EAECC6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #7474BF /* fallback for old browsers */
+  background: -webkit-linear-gradient(120deg, #7474BF , #348AC7); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(120deg, #7474BF , #348AC7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 .theme-custom .content a,
 .theme-custom .related-posts li a:hover {
-  color: #2BC0E4;
+  color: #7474BF;
 }
