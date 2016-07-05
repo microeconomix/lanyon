@@ -19,8 +19,8 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Ignacio Inoa
-  url:               https://twitter.com/InoaIgnacio
+  name:              DataMiX Blog
+  url:               http://microeconomix.fr
   email:             ignacio.inoa@microeconomix.com
   gravatar_md5:         b7ea3d21d483b2e40ce76c06be6e0c24
   github:            microeconomixblog
