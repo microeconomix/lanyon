@@ -5,7 +5,7 @@ title: Archives
 
 {% for post in site.posts %}
     <h2 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a {{ post.date | date_to_string }} href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h2>
