@@ -4,14 +4,12 @@ title: Archives
 ---
 
 {% for post in site.posts %}
+  <span class="post-date">{{ post.date | date_to_string }}</span>
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
   </div>
 {% endfor %}
