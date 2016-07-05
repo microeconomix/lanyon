@@ -4,23 +4,7 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
-{% case m %}
-  {% when '1' %}Januar
-  {% when '2' %}Februar
-  {% when '3' %}M&auml;rz
-  {% when '4' %}April
-  {% when '5' %}Mai
-  {% when '6' %}Juni
-  {% when '7' %}Juli
-  {% when '8' %}August
-  {% when '9' %}September
-  {% when '10' %}Oktober
-  {% when '11' %}November
-  {% when '12' %}Dezember
-{% endcase %}
-{{ page.date | date: "%Y" }}}</span>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
 </div>
 
@@ -32,23 +16,7 @@ layout: default
         <h3>
           <a href="{{ site.baseurl }}{{ post.url }}">
             {{ post.title }}
-            <small>{{% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
-{% case m %}
-  {% when '1' %}Januar
-  {% when '2' %}Februar
-  {% when '3' %}M&auml;rz
-  {% when '4' %}April
-  {% when '5' %}Mai
-  {% when '6' %}Juni
-  {% when '7' %}Juli
-  {% when '8' %}August
-  {% when '9' %}September
-  {% when '10' %}Oktober
-  {% when '11' %}November
-  {% when '12' %}Dezember
-{% endcase %}
-{{ page.date | date: "%Y" }}}</small>
+            <small>{{ page.date | date_to_string }}</small>
           </a>
         </h3>
       </li>
