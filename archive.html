@@ -4,5 +4,5 @@ title: Archives
 ---
 
 {% for post in site.posts %}
-  * {{ post.date | date_to_string }} &mdash; [ {{ post.title }} ]({{ post.url }})
+  * {{ post.date | date_to_string }} &mdash; [ {{ post.title }} ]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
