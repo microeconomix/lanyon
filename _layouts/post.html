@@ -21,7 +21,7 @@ layout: default
   {% when '12' %}décembre
 {% endcase %}
 {{ page.date | date: "%Y" }}</span>
-  {{ content }}
+  {{ content | markdownify }}
 </div>
 
 <div class="related">
