@@ -1,3 +1,9 @@
+---
+layout: post
+title: Introducing Lanyon
+comments: true
+---
+
 # Cannes - Microeconomix
 Emmanuel Frot  
 10 avril 2016  
