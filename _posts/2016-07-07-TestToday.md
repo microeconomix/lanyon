@@ -18,7 +18,7 @@ Microeconomix propose de se pencher sur 46 années de sélection officielle à l
 # Les réalisateurs sont-ils de plus en plus âgés ?
 Il est loin le temps où l'âge moyen des réalisateurs en compétition pouvait être de moins de 45 ans. C'étaient les années 70 et, en 1974 par exemple, un jeune réalisateur de 28 ans nommé Steven Spielberg pouvait faire son entrée en compétition avec son film Sugarland Express. Un autre de seulement sept ans son aîné remportait la même année le Grand Prix International du Festival (la palme d'Or n'existait pas à l'époque) avec The Conversation. Son réalisateur, Francis Ford Coppola, se verra attribuer la Palme d'Or cinq ans plus tard pour Apocalypse Now. 
 
-<iframe width="420" height="315" src="https://github.com/microeconomixblog/microeconomixblog.github.io/edit/master/_posts/cannes_microeconomix.html" frameborder="0" allowfullscreen>>&nbsp;</iframe>
+<iframe width="420" height="315" src="https://github.com/microeconomixblog/microeconomixblog.github.io/edit/master/_posts/cannes_microeconomix.html?wmode=opaque" frameborder="0" allowfullscreen>>&nbsp;</iframe>
 
 Avant 1980, les réalisateurs en compétition ont en moyenne 40-45 ans. De 1980 à 2000, cette moyenne passe à 45-50 ans. Ces dernières années, elle se situe au-delà de 50 ans.
 
