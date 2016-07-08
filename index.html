@@ -29,7 +29,7 @@ comments: false
   {% when '11' %}novembre
   {% when '12' %}décembre
 {% endcase %}
-{{ post.date | date: "%Y" }}</span>
+{{ post.date | date: "%Y" }} - {{ post.author }}</span>
 
     {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
 	<!--  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a> -->
