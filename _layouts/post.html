@@ -20,7 +20,8 @@ layout: default
   {% when '11' %}novembre
   {% when '12' %}décembre
 {% endcase %}
-{{ page.date | date: "%Y" }} {{ post.author }}</span>
+{{ page.date | date: "%Y" }}</span>
+<h2 class="post-date">{{ page.author }}</h2>
   {{ content  }}
 </div>
 
