@@ -2,7 +2,7 @@
 Emmanuel Frot  
 10 avril 2016  
 
-
+{% include_relative headjava.html %}
 
 # Le Festival de Cannes mis en perspective
 Quelles sont les évolutions les plus marquantes au sein de la compétition du Festival de Cannes depuis sa création ? Est-il vrai que les réalisateurs sélectionnés sont de plus en plus âgés ? Que l'on retrouve toujours les mêmes cinéastes ? Ou encore que la Palme d'Or revient toujours à un habitué du festival ? Peut-on aussi vraiment dire que Cannes privilégie les réalisateurs français ? Et qu'il néglige depuis longtemps les réalisatrices ? Du côté des acteurs, la prix d'interprétation consacre-t-il généralement une jeune actrice et un acteur déjà plus âgé ? 
