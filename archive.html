@@ -20,6 +20,6 @@ title: Archives
   {% when '11' %}novembre
   {% when '12' %}décembre
 {% endcase %}
-{{ post.date | date: "%Y" }} &mdash; <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a> <br>
+{{ post.date | date: "%Y" }} &mdash; [{{ post.author }}] <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a> <br>
 {% endfor %}
 
