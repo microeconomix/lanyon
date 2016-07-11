@@ -1175,6 +1175,6 @@ Il existe une grande dispersion nationale des effets des blocages sur les prix d
 
 #### Hausse moyenne de prix (en %) par département depuis le début des blocages (mobilisations Loi Travail)  
 
-<iframe src="{{ site.baseurl }}/_posts/css/carteblocage.html"></iframe>
+<iframe src="carteblocage.html"></iframe>
 
 #### Emmanuel Frot & Ignacio Inoa
