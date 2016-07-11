@@ -682,7 +682,7 @@ Le graphique ci-dessous présente les prix du gazole en 2010 et 2016 les 4 semai
     &lt;script&gt;&lt;/script&gt;    
   &lt;/body&gt;
 &lt;/html&gt; ' scrolling='no' frameBorder='0' seamless class='rChart  highcharts  ' id='iframe-chart2a986a165467'> </iframe>
- <style>iframe.rChart{ width: 100%; height: 600px;}</style>
+ <style>iframe.rChart{ width: 100%; height: 500px;}</style>
 
 <!-- <iframe  height="150" width="900" frameBorder="0"></iframe> -->
 
@@ -1384,7 +1384,7 @@ Lors des mobilisations contre la réforme des retraites en octobre 2010, on cons
     &lt;script&gt;&lt;/script&gt;    
   &lt;/body&gt;
 &lt;/html&gt; ' scrolling='no' frameBorder='0' seamless class='rChart  highcharts  ' id='iframe-chart2a982cf85273'> </iframe>
- <style>iframe.rChart{ width: 100%; height: 600px;}</style>
+ <style>iframe.rChart{ width: 100%; height: 500px;}</style>
 <!-- <iframe  height="100" width="900" frameBorder="0"></iframe> -->
 
 ***
