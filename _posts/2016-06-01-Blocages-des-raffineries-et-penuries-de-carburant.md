@@ -1,7 +1,11 @@
-  
+---
+layout: post
+title: Blocages des raffineries et pénuries de carburant : quels impacts sur les prix ?
+author: Emmanuel Frot & Ignacio Inoa
+comments: true
+--- 
 
-
-***
+{% include_relative headjava.html %}
 
 Le 17 mai 2016 la raffinerie de Donges (44) fut la première à entrer en grève contre la Loi Travail. Le mouvement de contestation s'est ensuite peu à peu étendu à presque toutes les raffineries et dépôts pétroliers de l'Hexagone. Depuis une semaine déjà, l'approvisionnement des stations-service est à son tour fortement affecté. Ce n'est pas la première fois que les grèves touchent les raffineries pétrolières du territoire français. À l'automne 2010, la mobilisation sociale contre la réforme des retraites bloquait aussi la raffinerie de Donges en premier, le 7 octobre 2010. 
 
