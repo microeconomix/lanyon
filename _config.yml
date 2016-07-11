@@ -11,7 +11,7 @@ kramdown:
 
 # Setup
 title:               DataMiX Blog
-tagline:             "Le blog de l'équipe Data de Microeconomix"
+tagline:             "Le blog de l'équipe data de Microeconomix"
 description:         'Ceci est le blog des économistes, économètres et data scientists de <a href="http://www.microeconomix.fr">Microeconomix</a>'
 url:                 http://microeconomixblog.github.io
 baseurl:             ''
