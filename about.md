@@ -1,31 +1,11 @@
 ---
 layout: page
-title: Qui sommes-nous ?
+title: A propos de Microeconomix
 comments: false
 ---
 
-<p class="message">
-  Hey there! Hey there! Hey there! Hey there! Hey there! Hey there! Hey there!This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Microeconomix est un cabinet spécialisé dans l’analyse des données de ses clients. Combinant une expertise statistique et économétrique de haut niveau et des compétences pointues en matière de modélisation et de conception d’outils informatiques, Microeconomix permet aux entreprises d’améliorer leur performance en exploitant de façon efficace leurs données économiques.
 
-There are currently two themes built on Poole:
+Fondé en 2002 par François Lévêque, professeur d’économie à Mines ParisTech et dirigé par Gildas de Muizon, Microeconomix réunit une équipe solide constituée d’une vingtaine de consultants et « data scientists » passionnés par la recherche de solutions opérationnelles et concrètes aux enjeux stratégiques des entreprises.  
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
