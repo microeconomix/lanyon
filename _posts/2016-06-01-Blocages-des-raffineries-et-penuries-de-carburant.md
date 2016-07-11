@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocages des raffineries et pénuries de carburant : quels impacts sur les prix ?
+title: Blocages des raffineries et pénuries de carburant. Quels impacts sur les prix ?
 author: Emmanuel Frot & Ignacio Inoa
 comments: true
 --- 
